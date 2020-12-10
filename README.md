@@ -1,1 +1,3 @@
 # sentimentAnalysisNetwork
+
+by Bryan Nagallo
